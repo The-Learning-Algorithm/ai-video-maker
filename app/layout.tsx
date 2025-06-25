@@ -3,8 +3,8 @@ import "./globals.css";
 import { Toaster } from 'react-hot-toast';
 
 export const metadata: Metadata = {
-  title: "AI Quiz Generator",
-  description: "AI Quiz Generator",
+  title: "AI Video Generator",
+  description: "AI Video Generator",
 };
 
 export default function RootLayout({
